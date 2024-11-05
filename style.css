@@ -19,7 +19,7 @@ body{
 }
 
 #container{
-  width: 355px;
+  width: 450px;
   margin: 60px auto;
   background-color: var(--text-color);
   border-radius: 18px;
@@ -27,7 +27,6 @@ body{
 }
 
 #container > img{
-  width: 355px;
   border-top-left-radius: 18px;
   border-top-right-radius: 18px;
 }
